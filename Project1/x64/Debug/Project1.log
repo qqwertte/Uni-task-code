@@ -1,0 +1,6 @@
+﻿  func.c
+C:\Users\voinv\Desktop\Polytechnik\PZ 1 term\Лаби готові(код)\Lab 10\Project1\func.c(214,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Main.c
+C:\Users\voinv\Desktop\Polytechnik\PZ 1 term\Лаби готові(код)\Lab 10\Project1\Main.c(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Project1.vcxproj -> C:\Users\voinv\Desktop\Polytechnik\PZ 1 term\Лаби готові(код)\Lab 10\Project1\x64\Debug\Project1.exe
